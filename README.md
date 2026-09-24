@@ -11,6 +11,12 @@ A classic two-player Tic-Tac-Toe game built with C# and Windows Forms, following
 - Restart option without closing the app
 - Game logic fully decoupled from the UI layer
 
+## Screenshots
+
+| Start Screen | Player Setup | Game Board |
+|:---:|:---:|:---:|
+| ![Start Screen](screenshots/start-screen.png) | ![Player Setup](screenshots/player-setup.png) | ![Game Board](screenshots/game-board.png) |
+
 ## Tech Stack
 
 - **Language:** C#
