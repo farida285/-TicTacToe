@@ -13,9 +13,14 @@ A classic two-player Tic-Tac-Toe game built with C# and Windows Forms, following
 
 ## Screenshots
 
-| Start Screen | Player Setup | Game Board |
-|:---:|:---:|:---:|
-| ![Start Screen](screenshots/start-screen.png) | ![Player Setup](screenshots/player-setup.png) | ![Game Board](screenshots/game-board.png) |
+**Start Screen**
+![Start Screen](screenshots/start-screen.png)
+
+**Player Setup**
+![Player Setup](screenshots/player-setup.png)
+
+**Game Board**
+![Game Board](screenshots/game-board.png)
 
 ## Tech Stack
 
